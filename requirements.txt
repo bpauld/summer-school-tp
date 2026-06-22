@@ -1,0 +1,5 @@
+# Python >= 3.9 recommended
+numpy
+matplotlib
+cvxpy[highs]
+cvxopt
